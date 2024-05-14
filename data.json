@@ -1,0 +1,127 @@
+{
+  "journal": {
+    "auteurs": [
+      {
+        "photo": "julien.jpg",
+        "prenom": "Julien",
+        "presentation": "Passionné par les grands événements sportifs, je vous offre une couverture complète des Jeux Olympiques de Paris 2024, des préparatifs à la clôture.",
+        "typeExperience": "Journaliste sportif"
+      },
+      {
+        "photo": "sophie.jpg",
+        "prenom": "Sophie",
+        "presentation": "Je suis spécialisée dans les infrastructures sportives et je vous présente les détails techniques et les innovations des installations des Jeux Olympiques de Paris 2024.",
+        "typeExperience": "Expert en infrastructures sportives"
+      },
+      {
+        "photo": "alexandre.jpg",
+        "prenom": "Alexandre",
+        "presentation": "Grâce à mon expertise en analyse des performances sportives, je vous propose une analyse approfondie des compétitions et des athlètes des Jeux Olympiques de Paris 2024.",
+        "typeExperience": "Analyste des sports olympiques"
+      }
+    ],
+    "informationsPratiques": {
+      "horaires": "Les épreuves se dérouleront de 9h à 23h tous les jours.",
+      "lieux": "Les épreuves auront lieu dans différents sites de la région parisienne.",
+      "tarifs": "Les tarifs des billets varient en fonction des épreuves et des catégories."
+    },
+    "nomJournal": "Paris 2024 Insider",
+    "phraseAccroche": "Votre source exclusive pour les dernières nouvelles et les coulisses des Jeux Olympiques de Paris 2024",
+    "texteAppelAction": "Abonnez-vous à notre newsletter pour suivre toutes les actualités sur les JO 2024 !",
+    "articlePrincipal": {
+      "date": "25 Avril 2024",
+      "description": "Plongez dans l'ambiance des Jeux Olympiques de Paris 2024 et découvrez ce qui vous attend lors de cet événement mondial.",
+      "image": "paris2024.jpg",
+      "theme": "Jeux Olympiques de Paris 2024",
+      "titre": "Paris 2024 : Préparatifs, attentes et grandes annonces"
+    },
+    "articles": [
+      {
+        "date": "20 Avril 2024",
+        "description": "Découvrez les nouveaux sports qui feront leur apparition aux Jeux Olympiques de Paris 2024 et qui promettent de belles surprises.",
+        "image": "sports-emergents.jpg",
+        "theme": "Sports",
+        "titre": "Les sports émergents aux Jeux Olympiques de Paris 2024"
+      },
+      {
+        "date": "18 Avril 2024",
+        "description": "Découvrez les athlètes français qui ont le plus de chances de briller lors des Jeux Olympiques de Paris 2024.",
+        "image": "athletes-francais.jpg",
+        "theme": "Athlètes",
+        "titre": "Les athlètes français à suivre lors des Jeux Olympiques de Paris 2024"
+      },
+      {
+        "date": "15 Avril 2024",
+        "description": "Découvrez les différents sites et infrastructures qui accueilleront les épreuves des Jeux Olympiques de Paris 2024.",
+        "image": "infrastructures.jpg",
+        "theme": "Infrastructures",
+        "titre": "Les infrastructures des Jeux Olympiques de Paris 2024"
+      },
+      {
+        "date": "12 Avril 2024",
+        "description": "Découvrez les enjeux économiques liés à l'organisation des Jeux Olympiques de Paris 2024 et leur impact sur la ville.",
+        "image": "enjeux-economiques.jpg",
+        "theme": "Économie",
+        "titre": "Les enjeux économiques des Jeux Olympiques de Paris 2024"
+      },
+      {
+        "date": "10 Avril 2024",
+        "description": "Découvrez les épreuves et les athlètes qui participeront aux Jeux Paralympiques de Paris 2024.",
+        "image": "paralympiques.jpg",
+        "theme": "Paralympiques",
+        "titre": "Les Jeux Paralympiques de Paris 2024"
+      },
+      {
+        "date": "8 Avril 2024",
+        "description": "Découvrez ce qui vous attend lors des cérémonies d'ouverture et de clôture des Jeux Olympiques de Paris 2024.",
+        "image": "ceremonies.jpg",
+        "theme": "Cérémonies",
+        "titre": "Les cérémonies d'ouverture et de clôture des Jeux Olympiques de Paris 2024"
+      }
+    ],
+    "portraits": [
+      {
+        "description": "Jesse Owens est un athlète américain spécialiste des épreuves de sprint et de saut en longueur. Il s'est illustré lors des Jeux Olympiques de Berlin en 1936 en remportant quatre médailles d'or.",
+        "image": "jesse-owens.jpg",
+        "nom": "Jesse Owens"
+      },
+      {
+        "description": "Cassius Clay, plus connu sous le nom de Muhammad Ali, est un boxeur américain. Il a remporté la médaille d'or aux Jeux Olympiques de Rome en 1960 dans la catégorie mi-lourds.",
+        "image": "cassius-clay.jpg",
+        "nom": "Cassius Clay"
+      },
+      {
+        "description": "Carl Lewis est un athlète américain spécialiste du sprint et du saut en longueur. Il a remporté neuf médailles d'or aux Jeux Olympiques entre 1984 et 1996.",
+        "image": "carl-lewis.jpg",
+        "nom": "Carl Lewis"
+      },
+      {
+        "description": "La Team USA est la délégation américaine aux Jeux Olympiques. Elle a remporté un total de 2827 médailles depuis les premiers Jeux Olympiques modernes en 1896.",
+        "image": "team-usa.jpg",
+        "nom": "Team USA"
+      }
+    ],
+    "themes": [
+      {
+        "description": "Découvrez les installations et les aménagements spéciaux pour les Jeux Olympiques de Paris 2024.",
+        "nom": "Infrastructures"
+      },
+      {
+        "description": "Portrait des athlètes français et des stars internationales qui participeront aux Jeux.",
+        "nom": "Athlètes"
+      },
+      {
+        "description": "Présentation des sports traditionnels et émergents qui seront au programme des Jeux.",
+        "nom": "Sports"
+      },
+      {
+        "description": "Informations sur les mesures de sécurité mises en place pour assurer le bon déroulement des Jeux.",
+        "nom": "Sécurité"
+      },
+      {
+        "description": "Analyse de l'impact des Jeux Olympiques de Paris 2024 sur la ville et ses habitants à long terme.",
+        "nom": "Héritage"
+      }
+    ]
+  }
+}
