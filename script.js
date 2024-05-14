@@ -87,7 +87,8 @@ fetch(newsUrl)
 
       const title = document.createElement('h3');
       title.textContent = article.title;
-
+      console.log(title)
+      
       const description = document.createElement('p');
       description.textContent = article.description;
 
